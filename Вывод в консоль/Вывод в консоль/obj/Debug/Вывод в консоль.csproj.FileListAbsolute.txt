@@ -1,7 +1,0 @@
-C:\Users\Миронов\Desktop\Tutorial\Вывод в консоль\Вывод в консоль\bin\Debug\Вывод в консоль.exe.config
-C:\Users\Миронов\Desktop\Tutorial\Вывод в консоль\Вывод в консоль\bin\Debug\Вывод в консоль.exe
-C:\Users\Миронов\Desktop\Tutorial\Вывод в консоль\Вывод в консоль\bin\Debug\Вывод в консоль.pdb
-C:\Users\Миронов\Desktop\Tutorial\Вывод в консоль\Вывод в консоль\obj\Debug\Вывод в консоль.csprojAssemblyReference.cache
-C:\Users\Миронов\Desktop\Tutorial\Вывод в консоль\Вывод в консоль\obj\Debug\Вывод в консоль.csproj.CoreCompileInputs.cache
-C:\Users\Миронов\Desktop\Tutorial\Вывод в консоль\Вывод в консоль\obj\Debug\Вывод в консоль.exe
-C:\Users\Миронов\Desktop\Tutorial\Вывод в консоль\Вывод в консоль\obj\Debug\Вывод в консоль.pdb
